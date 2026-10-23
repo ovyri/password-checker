@@ -1,0 +1,8 @@
+Fecha: 2026-10-23 17:53:54.375324
+Contraseña evaluada: velezsosmivida
+Estado: SEGURA (Cumple con el largo mínimo de 8 caracteres)
+----------------------------------------
+Fecha: 2026-10-23 17:54:18.688894
+Contraseña evaluada: valez
+Estado: INSEGURA (Muy corta, menos de 8 caracteres)
+----------------------------------------
